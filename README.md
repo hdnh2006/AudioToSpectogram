@@ -20,7 +20,7 @@ Spectrograms are created by performing a mathematical transformation called the 
 - Almost all sources supported: '.wav', '.mp3', '.m4a', etc.
 
 Play this audio
-https://raw.githubusercontent.com/hdnh2006/get_spectogram/main/assets/cat_160.mov
+[Link to Video]https://raw.githubusercontent.com/hdnh2006/get_spectogram/main/assets/cat_160.mov
 
 
 
