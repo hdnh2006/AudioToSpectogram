@@ -1,12 +1,12 @@
 
 # Audio to Spectrogram Converter
 
+<a href="https://www.buymeacoffee.com/hdnh2006" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+
 This Python script converts audio files to spectrogram images. It uses the `librosa` library for audio processing and `cv2` for image manipulation. The converted spectrograms are saved as PNG images.
 
 Dataset cats and dogs source: https://www.kaggle.com/datasets/mmoreaux/audio-cats-and-dogs
-
-<a href="https://www.buymeacoffee.com/hdnh2006" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
 
 This code will convert almost any audio to spectogram.
 
@@ -45,7 +45,7 @@ The spectogram for this audio is this image
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/hdnh2006/AudioToSpectogram.git
 ```
   
 2. Install the required packages:
