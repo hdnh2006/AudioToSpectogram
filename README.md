@@ -20,10 +20,7 @@ Spectrograms are created by performing a mathematical transformation called the 
 - Almost all sources supported: '.wav', '.mp3', '.m4a', etc.
 
 Play this audio
-<audio controls>
-  <source src="cats_dogs/train/cat/cat_160.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
+https://github.com/hdnh2006/get_spectogram/blob/main/assets/cat_160.mov
 
 The spectogram for this audio is this image
 <div align="center">
